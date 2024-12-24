@@ -1,0 +1,9 @@
+
+@online{marioSepGitHub, 
+    author = "Mario Sepúlveda-Hernández",  
+    title = "Digital Image Processing with Python",
+    url  = "https://github.com/mariosepulvedae/DigitalImageProcessingPython",
+    year=2024,
+    addendum = "(accessed: 12.23.2024)",
+    keywords = "python,digital,image,processing"
+}
