@@ -1,9 +1,9 @@
-
-@online{marioSepGitHub, 
-    author = "Mario Sepúlveda-Hernández",  
-    title = "Digital Image Processing with Python",
-    url  = "https://github.com/mariosepulvedae/DigitalImageProcessingPython",
-    year=2024,
-    addendum = "(accessed: 12.23.2024)",
-    keywords = "python,digital,image,processing"
-}
+cff-version: 1.2.0
+message: "If you use this scripts, please, cite this repository, i'd appreciate it so much"
+authors:
+family-names: "Mario"
+given-names: "Sepúlveda-Hernández"
+title: "Digital Image Processing with python"
+version: 1.0
+date-released: 2024-12-03
+url: "https://github.com/mariosepulvedae/DigitalImageProcessingPython"
