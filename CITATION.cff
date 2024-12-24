@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this scripts, please, cite this repository, i'd appreciate it so much."
 authors:
   - family-names: Mario
-    given-names: Sepúlveda-Hernández
+    given-names: Sepúlveda,Hernández
 title: "Digital Image Processing with python"
 version: 1.0
 date-released: 2024-12-03
