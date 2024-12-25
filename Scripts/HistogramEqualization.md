@@ -7,6 +7,8 @@ s_{k}=T\left(r_{k} \right)=(L-1)  \displaystyle \sum_{j=0}^{k} p_{r}\left( r_{j}
 
 This equation represents a new distribution for the intensity levels of the image
 
-<p>
-  <img src="medFiltExample.jpg"/>
+<p align="middle">
+  <img src="/Images/equ1.png" height=200 width=200>
+  <img src="/Images/equ2.png" height=200 width=200>
+  <img src="/Images/equ3.png" height=200 width=200>
 </p>
